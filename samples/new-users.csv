@@ -1,0 +1,3 @@
+GivenName;Surname;UserPrincipalName;Department;JobTitle;UsageLocation;Groups;LicenseSku
+Max;Mustermann;max.mustermann@contoso.onmicrosoft.com;Production;Shift Supervisor;DE;SG-Production|SG-Intune-Windows-Users;ENTERPRISEPACK
+Erika;Musterfrau;erika.musterfrau@contoso.onmicrosoft.com;Finance;Accountant;DE;SG-Finance;ENTERPRISEPACK

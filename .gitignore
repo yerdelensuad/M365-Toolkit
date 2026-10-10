@@ -1,0 +1,4 @@
+# Script output - may contain user data or initial passwords
+*.csv
+!samples/*.csv
+*.log
